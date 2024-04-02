@@ -18,4 +18,6 @@ In technical terms, they are just run time instances of **DOCKER IMAGES**.
 #### What are Docker Images?   
 Docker images are executable packages bundled with application code & dependencies, software packages etc for the purpose of creating containers. These images can be deployed to any docker environment and the containers can be spun up there to run the application.   
    
-In order to create a docker images a list of commands has to be executed which are present in a **DOCKER FILE**.
+In order to create a docker images a list of commands has to be executed which are present in a **DOCKER FILE**.   
+
+<img width="548" alt="image" src="https://github.com/AquibMS/DevOps/assets/83283216/10ddfa04-9f1d-4647-8c76-8486786789a3">
