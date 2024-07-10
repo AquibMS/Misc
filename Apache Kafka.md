@@ -1,4 +1,6 @@
-## Apache Kafka: Overview, Architecture, Use Cases, Setup, and Integration with Spring Boot
+# ![Apache Kafka](https://e7.pngegg.com/pngimages/929/893/png-clipart-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-text-logo-thumbnail.png) 
+  
+# Apache Kafka: Overview, Architecture, Use Cases, Setup, and Integration with Spring Boot
 
 ### Definition
 
