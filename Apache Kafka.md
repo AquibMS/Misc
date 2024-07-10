@@ -16,19 +16,9 @@ Kafka's architecture is designed for high scalability and fault tolerance. Here 
 6. **Zookeeper**: Used for managing and coordinating Kafka brokers. It helps in leader election, configuration management, and cluster state management.
 
 ### Kafka Architecture Diagram
-
-```plaintext
-+-----------------------------------+
-|            Kafka Cluster          |
-|                                   |
-| +------------+    +------------+  |
-| |   Broker   |    |   Broker   |  |
-| | (Partition |    | (Partition |  |
-| |  Replica 1)|    |  Replica 2)|  |
-| +------------+    +------------+  |
-|                                   |
-+-----------------------------------+
-```
+<div align="center">
+  <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/apache-kafka-architecture-/image_589142173211625734253276.png" alt="Apache Kafka Architecture">
+</div>
 
 ### Advantages
 
