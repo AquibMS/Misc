@@ -1,5 +1,7 @@
-# ![Apache Kafka](https://e7.pngegg.com/pngimages/929/893/png-clipart-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-text-logo-thumbnail.png) 
-  
+<div align="center">
+  <img src="https://e7.pngegg.com/pngimages/649/508/png-clipart-kafka-logo-landscape-tech-companies.png" alt="Apache Kafka Logo">
+</div>
+
 # Apache Kafka: Overview, Architecture, Use Cases, Setup, and Integration with Spring Boot
 
 ### Definition
