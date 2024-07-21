@@ -261,4 +261,21 @@ public class Switch {
 }
 ```
 
-These principles help in creating a more modular, maintainable, and extensible codebase.
+1. **Official Documentation and Articles:**
+   - [Wikipedia: SOLID](https://en.wikipedia.org/wiki/SOLID) - Overview of SOLID principles with examples.
+   - [Microsoft Documentation](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/principles-devops) - Explanation of SOLID principles in the context of .NET.
+
+2. **Tutorials and Blogs:**
+   - [SOLID Principles Explained](https://medium.com/@doabledanny/solid-principles-explained-7bcdb9dc87c9) - An easy-to-understand article on Medium.
+   - [GeeksforGeeks: SOLID Principles](https://www.geeksforgeeks.org/solid-principles-in-java/) - A detailed explanation with Java examples.
+
+3. **Books and Resources:**
+   - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code) by Robert C. Martin - A must-read book for understanding SOLID principles and writing clean code.
+   - [Design Principles and Design Patterns](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf) - An article by Robert C. Martin, explaining the principles in-depth.
+
+4. **Videos:**
+   - [SOLID Principles by Derek Banas](https://www.youtube.com/watch?v=rtmFCcjEgEw) - A YouTube video tutorial.
+   - [SOLID Principles in 8 Minutes](https://www.youtube.com/watch?v=GcUZLdhaIj0) - A quick overview on YouTube.
+
+
+## Follow my [GitHub](https://www.github.com/AquibMS/) & [LinkedIn](https://www.linkedin.com/in/aquib-mohammad/) account for more
