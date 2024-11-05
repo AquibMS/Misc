@@ -204,5 +204,3 @@ Redux provides a browser extension called **Redux DevTools** that allows you to 
 - **Redux Documentation**: [https://redux.js.org/](https://redux.js.org/)
 - **React-Redux Documentation**: [https://react-redux.js.org/](https://react-redux.js.org/)
 - **Redux DevTools**: [https://github.com/reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) 
-
-This guide provides a comprehensive overview of Redux, from the basics of state management to integrating it with React, complete with code examples, visuals, and resources for further learning.
